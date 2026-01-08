@@ -1,3 +1,5 @@
+# The following content is from research prior to December 4, 2025.
+
 # ✅ wasmtime (Only the minimum supported Kotlin version is 2.3.0-RC)
 > [wasmline-kotlin multiplatform](https://github.com/crowforkotlin/wasmline) based on > [wasmtime](https://github.com/bytecodealliance/wasmtime)
 
